@@ -1,0 +1,15 @@
+.x-score {
+    color: #FF1818;
+    border-bottom: 5px solid #FF1818;
+  
+  }
+  
+  .o-score {
+    color: #0079FF;
+    border-bottom: 5px solid #0079FF;
+   
+  }
+  
+  .inactive {
+    border-bottom: 5px solid transparent;
+  }
